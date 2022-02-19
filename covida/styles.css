@@ -1,0 +1,36 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+.out {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 3rem;
+}
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    background-color: black;
+    color: white;
+    padding: 10rem;
+}
+.head {
+    color: white;
+    text-decoration: overline;
+}
+.globe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-top: 10rem;
+}
